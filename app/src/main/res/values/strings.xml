@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Fragment</string>
+    <string name="true_caller">True Caller</string>
+    <string name="search">Search</string>
+    <string name="enter">Enter Phone Number</string>
+    <string name="copy">CopyRight</string>
+    <string name="text"> </string>
+</resources>
